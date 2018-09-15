@@ -4,10 +4,10 @@
     <title>Bruno Guedes</title>
     <description>Storage for ideas and code.
 </description>
-    <link>http://bsguedes.github.io/</link>
-    <atom:link href="http://bsguedes.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 15 Sep 2018 17:39:41 -0300</pubDate>
-    <lastBuildDate>Sat, 15 Sep 2018 17:39:41 -0300</lastBuildDate>
+    <link>https://bsguedes.github.ioblog/</link>
+    <atom:link href="https://bsguedes.github.ioblog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 15 Sep 2018 17:49:47 -0300</pubDate>
+    <lastBuildDate>Sat, 15 Sep 2018 17:49:47 -0300</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Sat, 15 Sep 2018 17:24:32 -0300</pubDate>
-        <link>http://bsguedes.github.io/hello/world/2018/09/15/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://bsguedes.github.io/hello/world/2018/09/15/welcome-to-jekyll.html</guid>
+        <link>https://bsguedes.github.ioblog/hello/world/2018/09/15/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://bsguedes.github.ioblog/hello/world/2018/09/15/welcome-to-jekyll.html</guid>
         
         
         <category>hello</category>
