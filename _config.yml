@@ -11,7 +11,7 @@ email: bsguedes@inf.ufrgs.br
 description: > # this means to ignore newlines until "baseurl:"
   Storage for ideas and code.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://bsguedes.github.io" # the base hostname & protocol for your site
+url: "https://bsguedes.github.io/blog" # the base hostname & protocol for your site
 twitter_username: bsguedes
 github_username: bsguedes
 linkedin_username: brunosilvaguedes
